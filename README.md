@@ -19,7 +19,12 @@ Banker's Algorithm is a deadlock avoidance algorithm used in operating systems. 
 
 ## Installation
 
-1. Clone the repository or download the source code from GitHub.
+1. Download the zip file 
+2. Unzip the file
+3. open Visual Studio
+4. From files > Open project 
+5. then select the project named as winform4
+6. Request a resource and interact with the windows applicaton to see if there a deadlock or not using bankers algorithm
 
 ## Usage
 
